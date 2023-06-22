@@ -1,0 +1,6 @@
+AR converter behavioral C:/XilinxPrj/Organki_PJ_MF/converter.vhd sub00/vhpl05 1684144796
+AR test_wavreader behavioral C:/XilinxPrj/Organki_PJ_MF/Test_WAVreader.vhf sub00/vhpl01 1684144798
+EN converter NULL C:/XilinxPrj/Organki_PJ_MF/converter.vhd sub00/vhpl04 1684144795
+EN test_wavreader NULL C:/XilinxPrj/Organki_PJ_MF/Test_WAVreader.vhf sub00/vhpl00 1684144797
+EN fsm_sendsamples NULL C:/XilinxPrj/Organki_PJ_MF/FSM_SendSamples.vhd sub00/vhpl02 1684144793
+AR fsm_sendsamples behavioral C:/XilinxPrj/Organki_PJ_MF/FSM_SendSamples.vhd sub00/vhpl03 1684144794

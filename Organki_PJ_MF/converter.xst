@@ -1,0 +1,5 @@
+set -tmpdir "C:/XilinxPrj/Organki_PJ_MF/xst/projnav.tmp"
+set -xsthdpdir "C:/XilinxPrj/Organki_PJ_MF/xst"
+elaborate
+-ifn converter.prj
+-ifmt mixed

@@ -1,0 +1,3 @@
+vhdl work "C:\XilinxPrj\Organki_PJ_MF\FSM_SendSamples.vhd"
+vhdl work "C:\XilinxPrj\Organki_PJ_MF\converter.vhd"
+vhdl work "C:\XilinxPrj\Organki_PJ_MF\Test_WAVreader.vhf"

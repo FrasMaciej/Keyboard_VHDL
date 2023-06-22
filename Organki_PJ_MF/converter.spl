@@ -1,0 +1,9 @@
+[Inputs]
+DO_RDY
+F0
+=DO[7:0]=
+[Outputs]
+Start
+Stop
+=FName[7:0]=
+[BiDir]
